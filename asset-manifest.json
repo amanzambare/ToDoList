@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amanzambare/ToDoList.git/static/css/main.1ada4fe2.chunk.css",
+    "main.js": "/amanzambare/ToDoList.git/static/js/main.2dc04da2.chunk.js",
+    "main.js.map": "/amanzambare/ToDoList.git/static/js/main.2dc04da2.chunk.js.map",
+    "runtime-main.js": "/amanzambare/ToDoList.git/static/js/runtime-main.b2792f37.js",
+    "runtime-main.js.map": "/amanzambare/ToDoList.git/static/js/runtime-main.b2792f37.js.map",
+    "static/js/2.5888540d.chunk.js": "/amanzambare/ToDoList.git/static/js/2.5888540d.chunk.js",
+    "static/js/2.5888540d.chunk.js.map": "/amanzambare/ToDoList.git/static/js/2.5888540d.chunk.js.map",
+    "static/js/3.f11e4b40.chunk.js": "/amanzambare/ToDoList.git/static/js/3.f11e4b40.chunk.js",
+    "static/js/3.f11e4b40.chunk.js.map": "/amanzambare/ToDoList.git/static/js/3.f11e4b40.chunk.js.map",
+    "index.html": "/amanzambare/ToDoList.git/index.html",
+    "static/css/main.1ada4fe2.chunk.css.map": "/amanzambare/ToDoList.git/static/css/main.1ada4fe2.chunk.css.map",
+    "static/js/2.5888540d.chunk.js.LICENSE.txt": "/amanzambare/ToDoList.git/static/js/2.5888540d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/amanzambare/ToDoList.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2792f37.js",
+    "static/js/2.5888540d.chunk.js",
+    "static/css/main.1ada4fe2.chunk.css",
+    "static/js/main.2dc04da2.chunk.js"
+  ]
+}
